@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My University</title>
+</head>
+<body>
+    <h1>My University</h1>
+    <p>I am currently studying at New Jersey City University, which is located in [City, Country].</p>
+    <p>My major is Computer Science, and I am currently taking the following courses:</p>
+    <ul>
+        <li>Course 1</li>
+        <li>Course 2</li>
+        <li>Course 3</li>
+    </ul>
+    <p>Besides academics, I am also a part of the No clubs.</p>
+
+    <p><a href="index.html">Back to Home</a></p>
+</body>
+</html>
