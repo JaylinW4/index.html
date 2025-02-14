@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>My Resume</h1>
+    <h2>Personal Information</h2>
+    <p>Name: Jaylin Walrond</p>
+    <p>Email: jwalrond@njcu.edu</p>
+
+    <h2>Education</h2>
+    <p>Bachelor at NJCU, Expected Graduation: 2028</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Web Development</li>
+        <li>Programming Languages: HTML, CSS, JavaScript</li>
+        <li>Problem-Solving</li>
+    </ul>
+
+    <h2>Work Experience</h2>
+    <p>Saler Associate at Foot Locker (2022-2024)</p>
+    <p>Responsibilities:</p>
+    <ul>
+        <li>Developed web applications using JavaScript.</li>
+        <li>Managed databases and optimized performance.</li>
+    </ul>
+
+    <p><a href="index.html">Back to Home</a></p>
+</body>
